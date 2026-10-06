@@ -1,0 +1,18 @@
+{
+    "productos": [
+        {
+            "id": "B01",
+            "nombre": "Banano Criollo",
+            "precio": 2200.0,
+            "tipo_venta": "kg",
+            "activo": true
+        },
+        {
+            "id": "B02",
+            "nombre": "Banano Bocadillo",
+            "precio": 1300.0,
+            "tipo_venta": "kg",
+            "activo": true
+        }
+    ]
+}

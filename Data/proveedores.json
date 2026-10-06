@@ -1,0 +1,40 @@
+{
+    "contador": 5,
+    "proveedores": [
+        {
+            "id": "PROV-001",
+            "nombre": "PEDRO",
+            "contacto": "pedritoelescamoso32@gmail.com",
+            "telefono": "",
+            "activo": true
+        },
+        {
+            "id": "PROV-002",
+            "nombre": "wer we",
+            "contacto": "ewr wfed",
+            "telefono": "2345234234",
+            "activo": true
+        },
+        {
+            "id": "PROV-003",
+            "nombre": "wer wer",
+            "contacto": "dsrsd f",
+            "telefono": "dwsr23423",
+            "activo": true
+        },
+        {
+            "id": "PROV-004",
+            "nombre": "juacho",
+            "contacto": "juancho123",
+            "telefono": "",
+            "activo": true
+        },
+        {
+            "id": "PROV-005",
+            "nombre": "julian",
+            "contacto": "dfklj;sahf@gmail.com",
+            "telefono": "13213131",
+            "activo": true
+        }
+    ]
+}

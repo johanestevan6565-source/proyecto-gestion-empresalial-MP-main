@@ -1,0 +1,77 @@
+{
+    "eventos": [
+        {
+            "timestamp": "2026-03-01T14:26:26",
+            "tipo": "compra",
+            "origen": "registro_compra_producto",
+            "data": {
+                "proveedor_id": "",
+                "producto_id": "",
+                "cantidad": 0.0,
+                "unidad": "K",
+                "precio_unitario": 12.0,
+                "total": 0.0
+            }
+        },
+        {
+            "timestamp": "2026-03-01T14:28:11",
+            "tipo": "compra",
+            "origen": "registro_compra_producto",
+            "data": {
+                "proveedor_id": "prov-001",
+                "producto_id": "B01",
+                "cantidad": 140.0,
+                "unidad": "kg",
+                "precio_unitario": 1800.0,
+                "total": 252000.0
+            }
+        },
+        {
+            "timestamp": "2026-03-01T14:34:19",
+            "tipo": "ingreso_empaque_proveedor",
+            "origen": "registro_ingreso_empaque_proveedor",
+            "data": {
+                "marca": "mp",
+                "cantidad": 40,
+                "proveedor": "PROV-001"
+            }
+        },
+        {
+            "timestamp": "2026-03-01T14:34:36",
+            "tipo": "compra",
+            "origen": "registro_compra_producto",
+            "data": {
+                "proveedor_id": "",
+                "producto_id": "",
+                "cantidad": 3.0,
+                "unidad": "3",
+                "precio_unitario": 3.0,
+                "total": 9.0
+            }
+        },
+        {
+            "timestamp": "2026-03-01T14:35:13",
+            "tipo": "venta",
+            "origen": "procesar_venta",
+            "data": {
+                "venta_id": "VEN-0001",
+                "cliente_id": "CLI-003",
+                "producto_id": "B01",
+                "cantidad": 120.0,
+                "precio_unitario": 2100.0
+            }
+        },
+        {
+            "timestamp": "2026-03-01T14:35:13",
+            "tipo": "prestamo_empaque_cliente",
+            "origen": "procesar_venta",
+            "data": {
+                "cliente_id": "CLI-003",
+                "marca": "mp",
+                "cantidad": 10,
+                "proveedor": null,
+                "venta_id": "VEN-0001"
+            }
+        }
+    ]
+}

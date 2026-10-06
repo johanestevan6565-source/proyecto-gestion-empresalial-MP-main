@@ -1,0 +1,8 @@
+{
+    "contador_movimientos": 0,
+    "movimientos": [],
+    "contador_flujo": 0,
+    "flujo_efectivo": [],
+    "contador_proveedores": 0,
+    "cuentas_por_pagar_proveedores": []
+}

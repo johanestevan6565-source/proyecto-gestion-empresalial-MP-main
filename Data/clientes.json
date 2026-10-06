@@ -1,0 +1,29 @@
+{
+    "contador": 4,
+    "clientes": [
+        {
+            "id": "CLI-001",
+            "nombre": "JUANCHO",
+            "telefono": "2312312WS",
+            "activo": false
+        },
+        {
+            "id": "CLI-002",
+            "nombre": "FELIPE",
+            "telefono": "1234214123D",
+            "activo": true
+        },
+        {
+            "id": "CLI-003",
+            "nombre": "Juan",
+            "telefono": "3123554654",
+            "activo": true
+        },
+        {
+            "id": "CLI-004",
+            "nombre": "**",
+            "telefono": "323244232",
+            "activo": false
+        }
+    ]
+}
