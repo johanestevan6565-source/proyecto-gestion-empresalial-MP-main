@@ -3,7 +3,7 @@
         {
             "id": "B01",
             "nombre": "Banano Criollo",
-            "precio": 2200.0,
+            "precio": 7200.0,
             "tipo_venta": "kg",
             "activo": true
         },

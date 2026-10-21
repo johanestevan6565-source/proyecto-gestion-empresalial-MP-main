@@ -32,3 +32,4 @@ def reporte_balance_financiero():
     balance = functions_cartera.calcular_balance_general()
     balance["fecha_corte"] = datetime.now().strftime("%Y-%m-%d")
     return balance
+
